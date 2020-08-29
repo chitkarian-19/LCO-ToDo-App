@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Info
+A basic to-do app builtn in ReactJS while learning React from "Learn Code Online" (Hitesh Choudhary).
+Images are subjected to copyright issues, so don't use it for commercial purpose.
+
 ## Available Scripts
 
 In the project directory, you can run:
